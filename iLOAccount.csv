@@ -1,0 +1,3 @@
+serverName,accountName,newAccountName,newLoginName,newPassword,privileges
+"F3-CN75140CR6, bay 7" ,dung,dung-account6,dung6,new_password6,LoginPriv|RemoteConsolePriv|UserConfigPriv|VirtualMediaPriv|VirtualPowerAndResetPriv|iLOConfigPriv|HostBIOSConfigPriv|HostNICConfigPriv|HostStorageConfigPriv|SystemRecoveryConfigPriv         
+"F3-CN75140CR6, bay 7" ,dung-account7,dung-account7,dung7,new_password5,LoginPriv|RemoteConsolePriv|UserConfigPriv|VirtualMediaPriv|VirtualPowerAndResetPriv|iLOConfigPriv|HostBIOSConfigPriv|HostNICConfigPriv|HostStorageConfigPriv
