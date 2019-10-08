@@ -29,6 +29,6 @@ The iloaccount.csv contains the follwoign fields:
 ### To change  ilo accounts
 
 ```
-    .\Set-iLOaccounts.ps1 -OVApplianceIP <OV-IP-Address> -OVAdminName <Admin-name> -OVAdminPassword <password> -iLOaccountCSV iloaccount.csv
+    .\Set-iLOaccount.ps1 -OVApplianceIP <OV-IP-Address> -OVAdminName <Admin-name> -OVAdminPassword <password> -iLOaccountCSV iloaccount.csv
 
 ```
